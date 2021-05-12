@@ -1,2 +1,2 @@
 # My-page
-Primeiro projeto de prtfolio
+Primeiro projeto de portfolio
